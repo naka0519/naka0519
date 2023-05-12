@@ -12,17 +12,20 @@
 ・その他触ったことがあるセンサ
 
 ## １：位置情報推定システム
-<img width="496" alt="beacon_system" src="https://github.com/naka0519/summary/assets/71176826/9d618ae3-6355-48b6-bb06-85e1dd7a8581">
+<img width="496" alt="beacon_system" src="https://github.com/naka0519/naka0519/assets/71176826/f39633a6-d05d-431d-baf9-9a2da3d3d030">
+
 
 
 ## ２：人の顔向きによる注目物体検知システム
-<img width="444" alt="Detect_facedirection_system" src="https://github.com/naka0519/summary/assets/71176826/061cf408-6e17-4a4f-add0-c1427c86bd8a">
-<img width="348" alt="openface_ex" src="https://github.com/naka0519/summary/assets/71176826/823d0f7a-f3db-4107-8b8c-cd74e7d9a03f">
+<img width="444" alt="Detect_facedirection_system" src="https://github.com/naka0519/naka0519/assets/71176826/5667036c-fc1d-4d4a-8ffa-9b2d19c5c69c">
+<img width="348" alt="openface_ex" src="https://github.com/naka0519/naka0519/assets/71176826/44c7ff44-8983-436a-8959-75da2fdc6d89">
+
 
 
 ## ３：研究室フロアマップWebアプリ
-<img width="342" alt="webapp_dataflow" src="https://github.com/naka0519/summary/assets/71176826/1be7c1db-2ef0-4f52-8342-2cc1321177e0">
-<img width="139" alt="webapp_visual" src="https://github.com/naka0519/summary/assets/71176826/a94f5461-75aa-42d7-8139-2367036542a1">
+<img width="139" alt="webapp_visual" src="https://github.com/naka0519/naka0519/assets/71176826/e94ec5db-4073-4470-bc6a-0ceeca04298b">
+<img width="342" alt="webapp_dataflow" src="https://github.com/naka0519/naka0519/assets/71176826/1df070b0-8b7e-475b-8893-3e9555a14565">
+
 
 
 ## ４：その他触ったことがあるセンサ

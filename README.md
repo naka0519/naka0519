@@ -25,7 +25,7 @@
 
 
 ## ３：研究室フロアマップWebアプリ
-<img width="139" alt="webapp_visual" src="https://github.com/naka0519/naka0519/assets/71176826/e94ec5db-4073-4470-bc6a-0ceeca04298b">
+<img width="250" alt="webapp_visual" src="https://github.com/naka0519/naka0519/assets/71176826/e94ec5db-4073-4470-bc6a-0ceeca04298b">
 <img width="342" alt="webapp_dataflow" src="https://github.com/naka0519/naka0519/assets/71176826/1df070b0-8b7e-475b-8893-3e9555a14565">
 
 

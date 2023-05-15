@@ -20,7 +20,8 @@
 
 ## ２：人の顔向きによる注目物体検知システム
 <img width="444" alt="Detect_facedirection_system" src="https://github.com/naka0519/naka0519/assets/71176826/5667036c-fc1d-4d4a-8ffa-9b2d19c5c69c">
-<img width="300" alt="openface_ex" src="https://github.com/naka0519/naka0519/assets/71176826/44c7ff44-8983-436a-8959-75da2fdc6d89">
+<img width="609" alt="facedirection_demo" src="https://github.com/naka0519/naka0519/assets/71176826/24e25112-a60f-47d2-ad00-c88986067b57">
+
 
 
 

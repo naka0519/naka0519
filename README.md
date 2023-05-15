@@ -14,6 +14,7 @@
 
 ## １：位置情報推定システム
 <img width="496" alt="beacon_system" src="https://github.com/naka0519/naka0519/assets/71176826/f39633a6-d05d-431d-baf9-9a2da3d3d030">
+<img width="960" alt="beacon_demo" src="https://github.com/naka0519/naka0519/assets/71176826/8b09e8a7-e46b-41c2-9348-3a6635bffdcb">
 
 
 

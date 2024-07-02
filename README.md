@@ -11,6 +11,6 @@
 ・研究室フロアマップWebアプリ
 
 # Hobby
-・Clock Your Life Time
+・Clock of Your Life
 
 ・Desktop Mascot

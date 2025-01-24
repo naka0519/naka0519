@@ -8,8 +8,29 @@
 
 # 研究内容 / Research Contents
   - ロボットによる能動的な話しかけ機構（2023-2025）
+    - @inproceedings{title={環境情報等からなるユーザ状況を考慮したロボットからの能動的な話しかけ},
+      author={中曽禎啓，Angel Garcia Contreras，河野誠也，阿多信吾，吉野幸一郎，藤本まなと},
+      booktitle={マルチメディア，分散，協調とモバイル（DICOMO2024）シンポジウム論文集},
+      year={2024},
+      pages = {1165--1170}}
   - Beaconを用いたユーザ位置推定システム（2022-2024）
+    - @unpublished{title = {Well-beingの影響調査に向けた家族の同室滞在時間把握のための位置情報取得システムの開発と評価},
+      author = {江種大希, 中曽禎啓, 小川唯, 藤本まなと, 阿多信吾}, 
+      note = {超知性ネットワーキングに関する分野横断型研究会（RISING）, ポスター発表, 2023}}
+    - https://prtimes.jp/main/html/rd/p/000000016.000075017.html
   - 人の顔向きによる注目方向検出（2022-2023）
+    - @InProceedings{10.1007/978-3-031-40978-3_25,
+      author="Nakaso, Yoshihiro
+      and Fujimoto, Manato
+      and Ata, Shingo",
+      editor="Barolli, Leonard",
+      title="Toward Extracting Orientation of Personal Interest for Human Activity Recognition",
+      booktitle="Advances in Networked-based Information Systems",
+      year="2023",
+      publisher="Springer Nature Switzerland",
+      pages="227--238",
+      isbn="978-3-031-40978-3"
+      }
 
 # 趣味 / Hobbies
   - Clock of Your Life

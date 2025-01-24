@@ -1,6 +1,5 @@
 最終更新日 2025/1/24
 
-![view counter](https://komarev.com/ghpvc/?username=naka0519&color=blue)
 
 
 # SNS
@@ -65,6 +64,7 @@
   - Vue
 
 
+![view counter](https://komarev.com/ghpvc/?username=naka0519&color=blue)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=naka0519&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
